@@ -1,6 +1,14 @@
 # 💫 About Me:
 🔭 I’m currently working on:<br>Building an AI-powered agency website & a decentralized cloud storage platform (IPFS + Blockchain), plus experimenting with a horror game in Unreal Engine.<br>👯 I’m looking to collaborate on:<br>Full-stack projects, UI/UX revamps, AI-integrated systems, and modern business website upgrades.<br>🌱 I’m currently having fun with:<br>Next.js, advanced web animations, game development & AI automation.<br>📧 How to reach me:<br>victorraj020@gmail.com<br>💬 Ask me about: JavaScript, MERN stack, IPFS, AI tools, website modernisation, or building clean scalable web apps.<br>🚀 Full-Stack Multitasker: I jump between building AI apps, designing websites, and creating horror game mechanics like it’s all one big playground.<br>😃 Pronouns:<br>He/Him
 
+while(alive){
+ eat();
+ sleep();
+ code();
+
+  if(IsWeekend())
+    takeABreak();
+}
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/victor-raj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:victorrajdev@gmail.com) 

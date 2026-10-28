@@ -1,5 +1,19 @@
-About Me:
-I’m currently working on:<br>Building an AI-powered agency website & a decentralized cloud storage platform (IPFS + Blockchain), plus experimenting with a horror game in Unreal Engine.<br>👯 I’m looking to collaborate on:<br>Full-stack projects, UI/UX revamps, AI-integrated systems, and modern business website upgrades.<br>🌱 I’m currently having fun with:<br>Next.js, advanced web animations, game development & AI automation.<br>📧 How to reach me:<br>victorraj020@gmail.com<br>💬 Ask me about: JavaScript, MERN stack, IPFS, AI tools, website modernisation, or building clean scalable web apps.<br>🚀 Full-Stack Multitasker: I jump between building AI apps, designing websites, and creating horror game mechanics like it’s all one big playground.<br>😃 Pronouns:<br>He/Him
+**About Me:**  
+I’m an MSc Computer Science student exploring quantum computing, software engineering, and emerging technologies.
+
+**I’m currently working on:**<br>Building QFoundry, an open-source quantum development VS Code extension, alongside AI-powered web applications, decentralized storage (IPFS + Blockchain), and experiments in Unreal Engine game development.
+
+**I’m looking to collaborate on:**<br>Open-source quantum computing tools, full-stack projects, AI-integrated systems, and developer tools.
+
+**I’m currently having fun with:**<br>Quantum computing, Qiskit, Python, Next.js, AI/ML, blockchain, and game development.
+
+**How to reach me:**<br>victorraj020@gmail.com
+
+**Ask me about:**<br>JavaScript, Python, MERN stack, Next.js, AI integration, web development, IPFS, and quantum computing fundamentals.
+
+**My Focus:**<br>Exploring the intersection of quantum computing and software development while building practical tools and contributing to open source.
+
+**Pronouns:**<br>He/Him
 
 while(alive){
  eat();
